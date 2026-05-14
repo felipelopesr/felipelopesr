@@ -23,7 +23,6 @@ sempre buscando desenvolver um código limpo, organizado e de fácil manutençã
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
----
 
 ### Tecnologias Secundárias:
 
@@ -35,7 +34,6 @@ sempre buscando desenvolver um código limpo, organizado e de fácil manutençã
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
 
 ### Estudando no momento:
 
@@ -45,7 +43,6 @@ sempre buscando desenvolver um código limpo, organizado e de fácil manutençã
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
----
 
 ### Ferramentas:
 
@@ -59,7 +56,6 @@ sempre buscando desenvolver um código limpo, organizado e de fácil manutençã
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
 
 # 🌐 Contatos:
 
