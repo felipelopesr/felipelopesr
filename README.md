@@ -1,5 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Felipe Lopes</h1>
 
+<h3 align="center">Desenvolvedor Front End Junior</h3>
+
 <p align="center">
   💻 Desenvolvedor Front End Jr.
 </p>
@@ -9,10 +11,6 @@
   <strong>Next.js</strong>, <strong>React</strong>,
   <strong>JavaScript</strong> e <strong>Tailwind CSS</strong>,
   sempre buscando desenvolver um código limpo, organizado e de fácil manutenção.
-</p>
-
-<p align="center">
-  📍 São Paulo, Brasil
 </p>
 
 ---
@@ -31,12 +29,12 @@
 
 ---
 
-## ⚡ Atualmente Utilizando
+## ⚡ Tecnologias Secundárias
 
 <p>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
 ---
