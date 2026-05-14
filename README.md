@@ -4,7 +4,7 @@
 💻 Desenvolvedor Front End Jr. formado pela Alura, com experiência em tecnologias modernas como
 <strong>Next.js</strong>, <strong>React</strong>,
 <strong>JavaScript</strong> e <strong>Tailwind CSS</strong>,
-sempre buscando desenvolver um código limpo, organizado e de fácil manutenção.
+sempre buscando desenvolver um código limpo e organizado.
 </p>
 
 ---
