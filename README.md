@@ -9,6 +9,8 @@
 
 ---
 
+# 💡 Minhas Habilidades
+
 ## 🚀 Tecnologias Principais
 
 <p>
