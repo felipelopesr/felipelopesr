@@ -1,13 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Felipe Lopes</h1>
 
-<h3 align="center">Desenvolvedor Front End Junior</h3>
-
 <p align="center">
-  💻 Desenvolvedor Front End Jr.
-</p>
-
-<p align="center">
-  Formado pela Alura, com experiência em tecnologias modernas como
+  💻 Desenvolvedor Front End Jr. formado pela Alura, com experiência em tecnologias modernas como
   <strong>Next.js</strong>, <strong>React</strong>,
   <strong>JavaScript</strong> e <strong>Tailwind CSS</strong>,
   sempre buscando desenvolver um código limpo, organizado e de fácil manutenção.
