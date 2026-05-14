@@ -67,10 +67,12 @@ sempre buscando desenvolver um código limpo, organizado e de fácil manutençã
   <a href="mailto:felipellopesr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
 
----
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<p align="center">
-☕ Código, café e criatividade.
+  <a href="https://www.instagram.com/seu-instagram/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
