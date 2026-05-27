@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Desenvolvedor Front End Jr. formado pela Alura, com experiência em tecnologias modernas como
-<strong>Next.js</strong>, <strong>React</strong>,
+<strong>Next.js</strong>, <strong>TypeScript</strong>,
 <strong>JavaScript</strong> e <strong>Tailwind CSS</strong>,
 sempre buscando desenvolver um código limpo e organizado.
 </p>
@@ -16,7 +16,7 @@ sempre buscando desenvolver um código limpo e organizado.
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
