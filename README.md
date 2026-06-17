@@ -1,17 +1,17 @@
-<h1 align="center">👋 Olá! Eu sou Felipe Lopes</h1>
+<h1 align="center">👋 Hi! I'm Felipe Lopes</h1>
 
 <p align="center">
-💻 Desenvolvedor Front End Jr. formado pela Alura, com experiência em tecnologias modernas como
+💻 Junior Front End Developer graduated from Alura, with experience in modern technologies like
 <strong>Next.js</strong>, <strong>TypeScript</strong>,
-<strong>JavaScript</strong> e <strong>Tailwind CSS</strong>,
-sempre buscando desenvolver um código limpo e organizado.
+<strong>JavaScript</strong>, and <strong>Tailwind CSS</strong>,
+always striving to write clean and organized code.
 </p>
 
 ---
 
-# 💡 Minhas Habilidades
+# 💡 My Skills
 
-### Tecnologias Primárias:
+### Core Stack:
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -24,7 +24,7 @@ sempre buscando desenvolver um código limpo e organizado.
 </p>
 
 
-### Tecnologias Secundárias:
+### Additional Tech:
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -35,7 +35,7 @@ sempre buscando desenvolver um código limpo e organizado.
 </p>
 
 
-### Estudando no momento:
+### Currently Learning:
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -44,7 +44,7 @@ sempre buscando desenvolver um código limpo e organizado.
 </p>
 
 
-### Ferramentas:
+### Tools:
 
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -55,7 +55,7 @@ sempre buscando desenvolver um código limpo e organizado.
 </p>
 
 
-# 🌐 Contatos:
+# 🌐 Connect with me:
 
 <p>
   <a href="mailto:felipellopesr@gmail.com">
