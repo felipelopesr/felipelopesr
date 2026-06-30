@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hi! I'm Felipe Lopes</h1>
+<h1 align="center">👋 Olá! Eu sou Felipe Lopes</h1>
 
 <p align="center">
-💻 Junior Front End Developer graduated from Alura, with experience in modern technologies like
+💻 Desenvolvedor Front-End Júnior formado pela Alura, com experiência em tecnologias modernas como
 <strong>Next.js</strong>, <strong>TypeScript</strong>,
-<strong>JavaScript</strong>, and <strong>Tailwind CSS</strong>,
-always striving to write clean and organized code.
+<strong>JavaScript</strong> e <strong>React</strong>,
+sempre buscando escrever um código limpo e organizado.
 </p>
 
 ---
 
-# 💡 My Skills
+# 💡 Minhas Habilidades
 
 ### Core Stack:
 
@@ -24,7 +24,7 @@ always striving to write clean and organized code.
 </p>
 
 
-### Additional Tech:
+### Tecnologias Adicionais:
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -35,7 +35,7 @@ always striving to write clean and organized code.
 </p>
 
 
-### Currently Learning:
+### Estudando Atualmente:
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -44,7 +44,7 @@ always striving to write clean and organized code.
 </p>
 
 
-### Tools:
+### Ferramentas:
 
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -55,7 +55,7 @@ always striving to write clean and organized code.
 </p>
 
 
-# 🌐 Connect with me:
+# 🌐 Conecte-se comigo:
 
 <p>
   <a href="mailto:felipellopesr@gmail.com">
