@@ -1,7 +1,5 @@
 # Olá! 👋 Sou Felipe Lopes
 
-🚀 **Desenvolvedor Front-End Jr.**  
-
 💻 Desenvolvedor Front-End Júnior formado pela Alura, com experiência em tecnologias modernas como:
 
 ---
