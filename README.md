@@ -1,15 +1,15 @@
-# Olá! 👋 Sou Felipe Lopes
+# Hello! 👋 I'm Felipe Lopes
 
-💻 Desenvolvedor Front-End Júnior formado pela Alura, com experiência em tecnologias modernas.
+💻 Junior Front-End Developer trained by Alura, with experience in modern technologies.
 
 ---
 
-## 🧠 Foco & Habilidades
+## 🧠 Focus & Skills
 
-- 💻 **Desenvolvimento Front-End:** Desenvolvimento de interfaces dinâmicas e responsivas.
-- 🎨 **Design UI/UX:** Aplicação de conceitos como responsividade, Glassmorphism e Dark Mode.
-- ⚡ **Integrações:** Consumo de APIs externas e gerenciamento de estado.
-- 🏗️ **Arquitetura:** Estruturação de projetos completos, modulares e eficientes.
+- 💻 **Front-End Development:** Development of dynamic and responsive interfaces.
+- 🎨 **UI/UX Design:** Application of concepts such as responsiveness, Glassmorphism, and Dark Mode.
+- ⚡ **Integrations:** Consumption of external APIs and state management.
+- 🏗️ **Architecture:** Structuring complete, modular, and efficient projects.
 
 ---
 
@@ -26,6 +26,19 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="URL_DO_SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="URL_DO_SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-YOUR_USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
