@@ -29,19 +29,3 @@
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="URL_DO_SEU_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="URL_DO_SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-SEU_USUARIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="URL_DO_SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-SEU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
