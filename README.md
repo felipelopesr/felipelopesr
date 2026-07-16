@@ -29,16 +29,3 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="URL_DO_SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="URL_DO_SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-YOUR_USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
