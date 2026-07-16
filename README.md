@@ -1,6 +1,6 @@
 # Olá! 👋 Sou Felipe Lopes
 
-💻 Desenvolvedor Front-End Júnior formado pela Alura, com experiência em tecnologias modernas como:
+💻 Desenvolvedor Front-End Júnior formado pela Alura, com experiência em tecnologias modernas.
 
 ---
 
@@ -40,5 +40,8 @@
   </a>
   <a href="URL_DO_SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-SEU_USUARIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="URL_DO_SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-SEU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
