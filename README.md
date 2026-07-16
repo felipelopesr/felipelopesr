@@ -6,10 +6,10 @@
 
 ## 🧠 Foco & Habilidades
 
--   💻 **Desenvolvimento Full-Stack:** Desenvolvimento de aplicações completas integrando front e back-end.
--   🎨 **Design UI/UX:** Aplicação de conceitos como responsividade, Glassmorphism e Dark Mode.
--   ⚡ **Integrações:** Consumo de APIs externas e gerenciamento de estado.
--   🏗️ **Arquitetura:** Estruturação de projetos completos, modulares e eficientes.
+- 💻 **Desenvolvimento Front-End:** Desenvolvimento de interfaces dinâmicas e responsivas.
+- 🎨 **Design UI/UX:** Aplicação de conceitos como responsividade, Glassmorphism e Dark Mode.
+- ⚡ **Integrações:** Consumo de APIs externas e gerenciamento de estado.
+- 🏗️ **Arquitetura:** Estruturação de projetos completos, modulares e eficientes.
 
 ---
 
